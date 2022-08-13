@@ -1,7 +1,7 @@
 // https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/
 // 1217 Minimum cost to move chips to the same position
 
-package com.company.leetcode;
+package com.company.leetcode.arrayQues;
 
 public class MoveChips {
     public int minCostToMoveChips(int[] position) {

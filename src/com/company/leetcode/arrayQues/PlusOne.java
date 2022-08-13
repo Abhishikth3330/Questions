@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/plus-one/0
 
-package com.company.leetcode;
+package com.company.leetcode.arrayQues;
 
 public class PlusOne {
     public int[] plusOne(int[] digits){

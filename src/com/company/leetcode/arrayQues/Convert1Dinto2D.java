@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/convert-1d-array-into-2d-array/
 
-package com.company.leetcode;
+package com.company.leetcode.arrayQues;
 
 public class Convert1Dinto2D {
     public int[][] construct2DArray(int[] original, int m, int n) {

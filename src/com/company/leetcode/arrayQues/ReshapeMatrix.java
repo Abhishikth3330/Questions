@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/reshape-the-matrix/
 
-package com.company.leetcode;
+package com.company.leetcode.arrayQues;
 
 public class ReshapeMatrix {
     public int[][] matrixReshape(int[][] mat, int r, int c) {
